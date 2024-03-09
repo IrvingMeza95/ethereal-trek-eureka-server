@@ -1,4 +1,6 @@
 server:
+  application:
+    name: eureka-server
   port: 8761
 
 ## Eureka Server Configuration
